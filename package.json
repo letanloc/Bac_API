@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "npm introduction",
+  "main": "app.js",
+  "script": {
+    "test": "echo \" error \"",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consolidate": "~0.9.1",
+    "express": "3.2.6",
+    "md5": "^2.2.1",
+    "mongodb": "1.4.5",
+    "muler": "^1.1.1",
+    "mysql": "^2.5.4"
+  },
+  "author": "loc",
+  "license": "BSD"
+}
